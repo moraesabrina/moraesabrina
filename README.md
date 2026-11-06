@@ -12,6 +12,9 @@ No dia a dia, utilizo ferramentas de observabilidade como Dynatrace, Kibana e Gr
 Tenho interesse em desenvolvimento backend, integração de sistemas, automação e Inteligência Artificial Generativa. Busco constantemente ampliar meus conhecimentos e transformar o aprendizado em soluções práticas.
 
 ### 🚀 Tecnologias e conhecimentos
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,git,github,vscode&theme=light" alt="Python, Java, JavaScript, Git, GitHub e VS Code" />
+</p>
 
 - **Linguagens:** Python, JavaScript e Java (em desenvolvimento)
 - **APIs e integrações:** REST, SOAP, HTTP/HTTPS e JSON
